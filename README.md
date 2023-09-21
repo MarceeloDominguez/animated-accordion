@@ -26,7 +26,7 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the project
 
 ```bash
   npm run android
